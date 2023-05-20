@@ -18,3 +18,4 @@ Asset sources:
     - All made from scratch in Photoshop.  Used Minecraft font for text.
 
 Playable Experience:
+[Play](https://burntthanatoast.github.io/)
